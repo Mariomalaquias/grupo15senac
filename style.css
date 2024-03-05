@@ -58,3 +58,21 @@ P{
     height: 100%;
 
   }
+  .titulo {
+    width: 300px;
+  }
+  form {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  div.lista {
+    display: flex;
+  }
+  div.item {
+    text-align: center;
+    padding: 10px;
+    width: 300px;
+  }
+  .pesquisa {
+    color: #000;
+  }
