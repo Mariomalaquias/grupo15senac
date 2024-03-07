@@ -16,7 +16,7 @@
     color: var(--texto-principal);
   }
   
-  button{
+  .button{
     color: var(--texto-escuro);
     font-weight: bold;
     cursor: pointer;
