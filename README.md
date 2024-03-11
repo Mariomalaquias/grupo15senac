@@ -24,3 +24,9 @@ Na segunda página interativa, assim que o usuário seleciona o filme desejado, 
 Ao explorar a terceira página, o usuário tem duas opções principais à sua disposição: a primeira é assistir ao filme selecionado, clicando em um botão dedicado que inicia a reprodução imediatamente, proporcionando uma experiência de visualização sem interrupções.
 Essa abordagem de design focada na experiência do usuário visa oferecer conveniência e praticidade em cada etapa da jornada, garantindo que os usuários possam encontrar e desfrutar do conteúdo de sua escolha de maneira eficiente e satisfatória.
 
+Filmagem explicativa do app.
+
+https://github.com/Mariomalaquias/grupo15senac/assets/105067281/35e20859-9af5-4ad9-bc7b-ce409413b21d
+
+https://github.com/Mariomalaquias/grupo15senac/assets/105067281/5f05a9e2-fdf5-4328-80b0-abab6f5d2e09
+
