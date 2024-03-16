@@ -12,7 +12,7 @@ LAYOUT DO PROJETO
 ![image](https://github.com/Mariomalaquias/grupo15senac/assets/122191875/780cb3ae-cc88-43d7-ad67-4b26534a5679)
 ![image](https://github.com/Mariomalaquias/grupo15senac/assets/122191875/95caba69-3ec7-4a3d-ad6a-865c3435ca0a)
 
-# TUTORITAL DA PAGINA 
+# TUTORIAL DA PAGINA 
 
 Na página inicial do nosso aplicativo, os usuários são recebidos com um layout intuitivo e repleto de informações relevantes para a experiência de descoberta de filmes e séries. 
 Aqui, eles têm acesso à variedade de opções disponíveis e podem explorar diferentes categorias e gêneros de conteúdo.
